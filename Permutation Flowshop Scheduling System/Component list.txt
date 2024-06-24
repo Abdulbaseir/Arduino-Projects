@@ -1,0 +1,8 @@
+Component used:
+Arduino uno
+LCD 12iC ( 16x2 )
+Keypad
+5x LED's 
+IR Sensor
+breadboard
+jumper wires
